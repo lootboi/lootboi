@@ -1,4 +1,9 @@
-### Hi there 👋
+## Howdy
+
+### Contact me at:
+
+Twitter: [@AltLoot](https://twitter.com/AltLoot)
+Email: altloot@proton.me
 
 <!--
 **lootboi/lootboi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
