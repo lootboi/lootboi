@@ -1,4 +1,3 @@
-### Hit me up
 - Website: [looter.world](http://looter.world/)
 - Twitter: [@AltLoot](https://twitter.com/AltLoot)        
 - Email: altloot@proton.me 
