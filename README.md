@@ -1,9 +1,7 @@
-## Howdy
+### Want to Collaborate?
 
-### Contact me at:
-
-- Twitter: [@AltLoot](https://twitter.com/AltLoot)
-- Email: altloot@proton.me
+- Twitter: [@AltLoot](https://twitter.com/AltLoot)        - Website: [looter.world](http://looter.world/)
+- Email: altloot@proton.me                                - This months coding music: [Spotify](https://open.spotify.com/playlist/1R0P4JVTU29GKwTd36y5N5?si=11ee1651999b407c)
 
 <!--
 **lootboi/lootboi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
