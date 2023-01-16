@@ -1,7 +1,7 @@
 - Website: [looter.world](http://looter.world/)
 - Twitter: [@AltLoot](https://twitter.com/AltLoot)        
 - Email: altloot@proton.me 
-- This months coding music: [Spotify](https://open.spotify.com/playlist/6E946AEWc4wYgjy3L7UO3e?si=4f891d80e5d34daf)
+- This months coding music: [Spotify](https://open.spotify.com/playlist/7piY4sMIaCHQWqT2i2M7FV?si=24e09875b6254ba4)
                              
 <!--
 **lootboi/lootboi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
